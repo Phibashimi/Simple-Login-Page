@@ -1,0 +1,33 @@
+body{
+    text-align:center;
+    margin-top:250px;
+    background-color:aqua;
+}
+
+.form{
+    background-color:white;
+   max-width:500px;
+   height:300px;
+   margin:50px auto;
+   padding:20px;
+}
+h1{
+    color:aqua;
+}
+button{
+    color:white;
+    background-color:aqua;
+    width:425px;
+    height:40px;
+    font: size 20px;
+    border:none
+
+}
+input{
+    width:400px;
+    height:30p;
+    border-width:1px;
+    border-color:black;
+    margin:6px;
+    padding:10px
+}
